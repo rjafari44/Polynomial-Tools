@@ -4,7 +4,7 @@
 
 ---
 
-### How to run
+### Usage
 
 For the Factoring calculator, ensure you are putting it in a format with brackets []. With the bracket in place, the numbers can either be separated with a comma, whitespace, both, or new line.
 
