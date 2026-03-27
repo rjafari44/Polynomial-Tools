@@ -23,6 +23,6 @@ pkg install -forge symbolic
 
 #### 2. Run the main calculator file
 ```octave
-runCalculators
+run_calculators
 ```
 
